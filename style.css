@@ -1,0 +1,72 @@
+.navbar {
+    font-family: 'Lobster', cursive;
+}
+
+.display-6 {
+    font-size: 100px;
+    color: rgb(138, 98, 39);
+}
+
+.banner {
+    background: url(image/Pin\ by\ Sofia\ Ramírez\ on\ Fondos\ para\ iphone\ in\ 2022\ _\ Nature\ aesthetic\,\ Sunset\ pictures\,\ Scenery\ wallpaper\ _\ Sky\ aesthetic\,\ Nature\ aesthetic\,\ Scenery\ wallpaper.jpg)
+        no-repeat center center;
+        background-size: cover;
+        padding-top:20%;
+        padding-bottom: 20px;
+        height: 100vh;
+        background-position: 50% 50%;
+        width: 100%;
+        color: rgb(241, 196, 141);
+        font-family: 'Lobster', cursive;
+        font-size: 10rem;
+        font-size: 7rem;
+        color: beige;
+}
+
+.layanan {
+    background: url(image/download\ \(2\).jpg)
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20px;
+    height: 100%;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 50px;
+    color: rgb(150, 107, 50);
+    background-color: wheat;
+    
+}
+.palet {
+        display: inline-block;
+        border-radius: 50%;
+        width: 150px;
+        margin: auto;
+        height: 50px;
+        color: rgb(150, 107, 50);
+        background-color: wheat;
+}
+.crop-img {
+    object-fit: cover;
+}
+
+
+.tentang {
+    background: url(image/download\ \(2\).jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: black;
+}
+.kontak {
+    background: url(image/2020-05-03\ 05.35.54\ 1.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: brown;
+}
